@@ -1,2 +1,5 @@
 This is a test file we are creating.
+Second line in this file
+Third line in this file
+Fourth line in this file
 
