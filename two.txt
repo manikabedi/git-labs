@@ -1,12 +1,14 @@
 THis is the second file we are creating
 Second line in two.txt
-<EAD
+
 This line is added for 2nd commit in feature01 branch
-HEAD
+
 This line has been added to simulate a merge conflict
 This line is added from feature01 branch to create a merge conflict
 feture01
 
 Third line from Github
 
+
+Third line from Github
 
