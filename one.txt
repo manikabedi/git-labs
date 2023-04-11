@@ -12,7 +12,6 @@ Adding from notepad
 add this line from Github
 
 we are recreating a stash
-:wq
 Adding from notepad
 
 Add this line from Github

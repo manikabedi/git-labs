@@ -8,6 +8,6 @@ Editing this change from GitHub
 
 
 we are creating a stash
-Editing this change from GitHub
+ing this change from GitHub
 
 
