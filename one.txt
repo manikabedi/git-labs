@@ -11,4 +11,6 @@ Adding from notepad
 
 add this line from Github
 
+we are recreating a stash
+:wq
 
