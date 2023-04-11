@@ -1,4 +1,7 @@
 Tesr
 This file is being modified in feature01 branch
 Second line
+HEAD
 this line has been added from master branch to create a conflict with feature01
+added from feature01 branch to create a merge conflict
+feture01
