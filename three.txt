@@ -1,4 +1,4 @@
 Tesr
 This file is being modified in feature01 branch
 Second line
-
+this line has been added from master branch to create a conflict with feature01

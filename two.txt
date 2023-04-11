@@ -1,4 +1,6 @@
 THis is the second file we are creating
 Second line in two.txt
 This line is added for 2nd commit in feature01 branch
+This line has been added to simulate a merge conflict
+:wq
 
